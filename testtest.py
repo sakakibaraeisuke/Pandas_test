@@ -1,0 +1,2 @@
+print("chikashi")
+print("kanau")
